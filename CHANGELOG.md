@@ -8,7 +8,7 @@ All notable changes to this project will be documented here.
 * Simulating RORO import process
 
 
-## [0.1.0] - 14-09-2020
+## [3.0.1] - 06-24-2020
 
 **Added**
 
@@ -17,14 +17,14 @@ All notable changes to this project will be documented here.
 - Merging  all the services together to construct the global components of the simulation
 system.
 
-## [0.0.3] - 14-09-2020
+## [2.0.1] - 06-23-2020
 
 **Added**
 
 - Defining the simulation's services
 - Representing the services with fs2 Queues.
 
-## [0.0.2] - 14-09-2020
+## [1.0.1] - 06-19-2020
 
 **Added**
 
@@ -33,7 +33,7 @@ system.
 - Defining the processing of the vehicle in a service designed by the Operation object.
 - Defining Random unique identifier of a vehicle. 
 
-## [0.0.1] - 14-09-2020
+## [0.0.1] - 06-19-2020
 
 **Added**
 
